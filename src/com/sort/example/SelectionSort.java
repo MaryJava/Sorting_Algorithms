@@ -33,4 +33,4 @@ public class SelectionSort {
     }
 }
 
-// Time Complexity: O(n2) as there are two nested loops.
+// Time Complexity: O(n^2) as there are two nested loops.
