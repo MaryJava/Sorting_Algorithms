@@ -25,4 +25,4 @@ public class InsertionSort {
     }
 }
 
-// Time Complexity: O(n*2)
+// Time Complexity: O(n*2)~O(n)
