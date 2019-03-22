@@ -80,3 +80,7 @@ public class MergeSort {
         print(arr);
     }
 }
+
+
+// Time complexity of Merge Sort is \Theta(nLogn) in all 3 cases (worst, average and best)
+// as merge sort always divides the array in two halves and take linear time to merge two halves.
